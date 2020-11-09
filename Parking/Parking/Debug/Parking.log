@@ -1,0 +1,3 @@
+﻿  parking.cpp
+C:\Users\jiji4\Project\대형마트 주차관리 프로그램\Parking_management\Parking\Parking\parking.cpp(21,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Parking.vcxproj -> C:\Users\jiji4\Project\대형마트 주차관리 프로그램\Parking_management\Parking\Debug\Parking.exe
